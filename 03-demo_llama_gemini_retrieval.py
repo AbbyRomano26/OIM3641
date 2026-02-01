@@ -38,7 +38,7 @@ Settings.embed_model = GoogleGenAIEmbedding(
 
 # 3. Initialize the retriever to fetch nodes from your Llama Cloud index
 retriever = LlamaCloudRetriever(
-    name="AI_Proposal",
+    name="abby_test_index",
     project_name="Default",
     api_key=llama_cloud_key,
     organization_id=org_id
@@ -50,7 +50,7 @@ query_engine = RetrieverQueryEngine(
 )
 
 # 5. Run the query
-query = "What is this document about?"
+query = "When did WWI start?"
 response = query_engine.query(query)
 
 # 6. Print the response

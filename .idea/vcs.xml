@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/OIM3641_SP26" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/spring26" vcs="Git" />
   </component>
 </project>
