@@ -32,7 +32,7 @@ OIM3641_repo/
 
 ⚙️ Installation & Setup
 Clone the Repository
-git clone https://github.com/aromano2/OIM3641_repo.git
+git clone https://github.com/abbyromano26/OIM3641_repo.git
 cd OIM3641_repo
 
 Install Required Packages
