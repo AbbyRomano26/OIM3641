@@ -24,11 +24,7 @@ Google Gemini API
 
 Repository Structure
 
-OIM3641_repo/
-│
-├── starterfiles/        # Original class starter materials
-├── data/                # Datasets used in assignments/projects
-└── README.md            # Repository documentation
+OIM3641_repo/starterfiles # Original class starter materials/data # Datasets used in assignments/projects/README.md # Repository documentation
 
 ⚙️ Installation & Setup
 Clone the Repository
